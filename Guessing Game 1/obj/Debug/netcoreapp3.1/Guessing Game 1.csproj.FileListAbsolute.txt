@@ -1,0 +1,14 @@
+D:\C# Projects\Number Guesser\bin\Debug\netcoreapp3.1\Guessing Game 1.exe
+D:\C# Projects\Number Guesser\bin\Debug\netcoreapp3.1\Guessing Game 1.deps.json
+D:\C# Projects\Number Guesser\bin\Debug\netcoreapp3.1\Guessing Game 1.runtimeconfig.json
+D:\C# Projects\Number Guesser\bin\Debug\netcoreapp3.1\Guessing Game 1.runtimeconfig.dev.json
+D:\C# Projects\Number Guesser\bin\Debug\netcoreapp3.1\Guessing Game 1.dll
+D:\C# Projects\Number Guesser\bin\Debug\netcoreapp3.1\Guessing Game 1.pdb
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.csproj.AssemblyReference.cache
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.AssemblyInfoInputs.cache
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.AssemblyInfo.cs
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.csproj.CoreCompileInputs.cache
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.dll
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.pdb
+D:\C# Projects\Number Guesser\obj\Debug\netcoreapp3.1\Guessing Game 1.genruntimeconfig.cache
