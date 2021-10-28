@@ -1,0 +1,16 @@
+D:\C# Projects\GuessingGame2\bin\Debug\net5.0\GuessingGame2.exe
+D:\C# Projects\GuessingGame2\bin\Debug\net5.0\GuessingGame2.deps.json
+D:\C# Projects\GuessingGame2\bin\Debug\net5.0\GuessingGame2.runtimeconfig.json
+D:\C# Projects\GuessingGame2\bin\Debug\net5.0\GuessingGame2.runtimeconfig.dev.json
+D:\C# Projects\GuessingGame2\bin\Debug\net5.0\GuessingGame2.dll
+D:\C# Projects\GuessingGame2\bin\Debug\net5.0\ref\GuessingGame2.dll
+D:\C# Projects\GuessingGame2\bin\Debug\net5.0\GuessingGame2.pdb
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.csproj.AssemblyReference.cache
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.AssemblyInfoInputs.cache
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.AssemblyInfo.cs
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.csproj.CoreCompileInputs.cache
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.dll
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\ref\GuessingGame2.dll
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.pdb
+D:\C# Projects\GuessingGame2\obj\Debug\net5.0\GuessingGame2.genruntimeconfig.cache
