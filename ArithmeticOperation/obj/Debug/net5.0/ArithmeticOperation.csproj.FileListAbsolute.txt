@@ -1,0 +1,16 @@
+D:\C# Projects\ArithmeticOperation\bin\Debug\net5.0\ArithmeticOperation.exe
+D:\C# Projects\ArithmeticOperation\bin\Debug\net5.0\ArithmeticOperation.deps.json
+D:\C# Projects\ArithmeticOperation\bin\Debug\net5.0\ArithmeticOperation.runtimeconfig.json
+D:\C# Projects\ArithmeticOperation\bin\Debug\net5.0\ArithmeticOperation.runtimeconfig.dev.json
+D:\C# Projects\ArithmeticOperation\bin\Debug\net5.0\ArithmeticOperation.dll
+D:\C# Projects\ArithmeticOperation\bin\Debug\net5.0\ref\ArithmeticOperation.dll
+D:\C# Projects\ArithmeticOperation\bin\Debug\net5.0\ArithmeticOperation.pdb
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.csproj.AssemblyReference.cache
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.AssemblyInfoInputs.cache
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.AssemblyInfo.cs
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.csproj.CoreCompileInputs.cache
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.dll
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ref\ArithmeticOperation.dll
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.pdb
+D:\C# Projects\ArithmeticOperation\obj\Debug\net5.0\ArithmeticOperation.genruntimeconfig.cache
